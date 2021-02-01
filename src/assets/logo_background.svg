@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="55mm" height="55mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5500 5500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="750" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Fragment Core">
+		<font-face-src>
+			<font-face-name name="Fragment Core Roman"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="E" horiz-adv-x="534" d="M23.0012 3.99921l470.998 0 7.00109 8.00171 22.0006 132.998 0 34.0015 -18.0014 0 -7.00109 -8.99905 -24.9992 -135.999 -318.999 0 0 339.999 264.998 2.99858 8.00171 16.0001 -8.99905 9.00234 -264.001 4.99984 0 268 318.999 2.99858 0 18.0014 -8.99905 6.99779 -440.999 0 0 -23.9986 96.9981 -6.00046 0 -629.999 -7.99842 -8.99905 -88.9997 -4.0025 0 -25.9998z"/>
+   <glyph unicode="N" horiz-adv-x="769" d="M25.9998 6.00046l13.9989 -6.00046 259.001 0 0 21 -8.99905 8.99905 -110 0 0 597.001 6.99779 0 247.003 -371.999 2.99858 -9.00234 4.99984 -4.99984 160.999 -240.999 13.0015 0 8.99905 8.99905 3.00188 669 110 0 8.99905 8.99905 0 13.0015 -8.99905 7.99842 -248 0 -13.9989 -5.99717 0 -15.0028 8.99905 -8.99905 110 0 0 -601.998 -13.0015 12.9983 -66.9991 102.001 -4.99984 3.99921 -338.998 512.998 -131.003 0 -13.9989 -7.99842 0 -13.0015 8.99905 -8.99905 110 0 0 -648 -105 0 -13.9989 -6.00046 0 -17.9981z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Fragment Core";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#FEFEFE;stroke-width:50;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fnt0 {font-weight:normal;font-size:3038.1px;font-family:'Fragment Core'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="162.7" y="3845.44"  class="fil0 fnt0">E</text>
+  <text x="2994.61" y="3845.44"  class="fil0 fnt0">N</text>
+  <line class="fil1 str0" x1="2489.14" y1="1456.65" x2="2489.14" y2= "4046.69" />
+ </g>
+</svg>
